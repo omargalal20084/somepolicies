@@ -1,1 +1,1 @@
-This app doesn't use or store user information
+This app doesn't use or store user information but in case you want to delete the information that we don't collect please send us an email to deletemyinfo@gmail.com and consider it done.
